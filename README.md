@@ -4,6 +4,7 @@
 
 I work in finance and like building things on the side — turning real-world data into tools people can actually use and explore. This page is where I collect the projects I'm proud of.
 
+Linkedin -> https://www.linkedin.com/in/jeremypekqingwei/
 ---
 
 ## 📊 Featured project
