@@ -16,7 +16,7 @@ An interactive dashboard built on **321,762 HDB resale transactions** spanning m
 
 Built with plain HTML, CSS, and JavaScript, assisted by Claude — no frameworks, no build step. Data processed in Python, geocoded via the OneMap API, and mapped onto real URA town boundaries.
 
-🔗 **[Explore the live dashboard →](https://jeremydevdesign.github.io/sg-hdb-resale-dashboard/)**
+🔗 **[Explore the live dashboard →](https://sghdbresale.com/)**
 📁 [View the repository →](https://github.com/jeremydevdesign/sg-hdb-resale-dashboard)
 
 ---
