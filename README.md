@@ -10,7 +10,7 @@ I work in finance and like building things on the side — turning real-world da
 
 ## 📊 Featured project
 
-### Singapore HDB Resale Price Dashboard (2012–2025)
+### Singapore HDB Resale Price Dashboard (2012–2026)
 
 An interactive dashboard built on **321,762 HDB resale transactions** spanning more than a decade. It helps flat buyers figure out where they can afford to buy, and lets anyone explore how Singapore's public housing resale market has shifted over time — including the post-COVID surge, the MRT-proximity premium, and a few counterintuitive findings buried in the data.
 
